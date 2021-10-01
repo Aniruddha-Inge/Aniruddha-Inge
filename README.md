@@ -1,4 +1,4 @@
-### Hello, I'm Aniruddha 👋
+### Hello, I'm Aniruddha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
 
@@ -15,3 +15,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Aniruddha-Inge&count_private=true&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha-Inge&show_icons=true&theme=radical)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aniruddha-Inge.kunal-kushwaha)
