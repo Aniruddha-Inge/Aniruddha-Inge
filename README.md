@@ -2,10 +2,10 @@
 
 
 
-- 🌱 I’m currently learning DSA in Java and also Web Development
+- 🌱 I’m currently learning DSA in Java and also learning Web Development! 
 
 
-- 📫 How to reach me: [Twitter - @AniruddhaInge](https://twitter.com/AniruddhaInge)
+- 📫 How to reach me: [Twitter](https://twitter.com/AniruddhaInge)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I leave so many tabs open on my screen 
 
