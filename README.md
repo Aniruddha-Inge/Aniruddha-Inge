@@ -17,4 +17,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha-Inge&show_icons=true&theme=radical)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aniruddha-Inge.kunal-kushwaha)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
