@@ -9,15 +9,11 @@
 <hr>
 <br>
 
-- 🌱 I’m currently learning Java
+- 🌐 I'm a front-end web developer
+- 🌱 I’m currently learning Java and Javascript
+- ⚡ I love problem-solving and contributing to open source 
 
-
-- 📫 How to reach me: [Twitter](https://twitter.com/AniruddhaInge)
+- 📫 How to reach me: [Twitter](https://twitter.com/AniruddhaInge)  [LinkedIn](https://www.linkedin.com/in/aniruddhainge/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I leave so many tabs open on my screen 
 
-
-[![Aniruddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniruddha-Inge)](https://github.com/Aniruddha-Inge/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha-Inge&langs_count=8)](https://github.com/Aniruddha-Inge/github-readme-stats)
 
