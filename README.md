@@ -9,7 +9,7 @@
 <hr>
 <br>
 
-- 🌐 I'm a front-end web developer
+- 🌐 I'm a web developer
 - 🌱 I’m currently learning Java and Javascript
 - ⚡ I love problem-solving and contributing to open source 
 
