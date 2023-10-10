@@ -9,11 +9,6 @@
 <hr>
 <br>
 
-- 🌐 I'm a web developer
-- 🌱 I’m currently learning Java and Javascript
-- ⚡ I love problem-solving and contributing to open source 
-
 - 📫 How to reach me: [Twitter](https://twitter.com/AniruddhaInge)  [LinkedIn](https://www.linkedin.com/in/aniruddhainge/)
-- 😄 Pronouns: He/His
 
 
